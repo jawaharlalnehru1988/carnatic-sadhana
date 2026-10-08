@@ -1,0 +1,8 @@
+{
+  "name": "Carnatic Sadhana",
+  "description": "Carnatic music daily practice companion with lesson tracking, high-fidelity audio recorder, category organizer, native audio/mp3 importer, and YouTube lesson embeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
